@@ -10,6 +10,8 @@ namespace WIPManager.Utils
 {
     public class SQLCon : IDatabase, IDisposable
     {
+        // Add a comment
+
         private const string TAG = "SQLCon";
 
 
