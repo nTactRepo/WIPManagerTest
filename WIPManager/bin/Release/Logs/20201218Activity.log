@@ -1,0 +1,51 @@
+﻿12/18/2020 3:30:16 PM [FindKitInWIP] FindKitInWIP is starting.
+12/18/2020 3:30:31 PM [FindKitInWIP] WO Information cleared
+12/18/2020 3:30:31 PM [FindKit] User typed in unknown WO#: 9200-276911/1
+12/18/2020 3:30:33 PM [FindKitInWIP] WO Information cleared
+12/18/2020 3:30:33 PM [FindKitInWIP] New WO Displayed
+12/18/2020 3:30:33 PM [FindKitInWIP] Used asked to display WO: 9200-276911
+12/18/2020 3:30:46 PM [GetFromWIP] New state: GetName
+12/18/2020 3:30:46 PM [GetFromWIP] WO Info cleared.
+12/18/2020 3:30:52 PM [GetFromWIP] Changed to Operation mode: Return
+12/18/2020 3:30:52 PM [GetFromWIP] New state: GetName
+12/18/2020 3:30:52 PM [GetFromWIP] New WO  information with 0 material rows
+12/18/2020 3:30:54 PM [GetFromWIP] Changed to Operation mode: Pull
+12/18/2020 3:30:54 PM [GetFromWIP] New state: GetName
+12/18/2020 3:30:54 PM [GetFromWIP] New WO  information with 0 material rows
+12/18/2020 3:30:56 PM [GetFromWIP] Changed to Operation mode: Return
+12/18/2020 3:30:56 PM [GetFromWIP] New state: GetName
+12/18/2020 3:30:56 PM [GetFromWIP] New WO  information with 0 material rows
+12/18/2020 3:31:00 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/18/2020 3:31:00 PM [PlaceInWIP] PlaceInWIP is starting.
+12/18/2020 3:31:06 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/18/2020 3:31:15 PM [PlaceInWIP] Used asked for WO, record ID: 9200276911
+12/18/2020 3:31:15 PM [PlaceInWIP] WO Information cleared
+12/18/2020 3:31:15 PM [PlaceInWIP] Unable to find WO.
+12/18/2020 3:31:26 PM [PlaceInWIP] Used asked for WO, record ID: 92002769111
+12/18/2020 3:31:26 PM [PlaceInWIP] WO Information cleared
+12/18/2020 3:31:26 PM [PlaceInWIP] Unable to find WO.
+12/18/2020 3:31:38 PM [PlaceInWIP] User selected Close Button
+12/18/2020 4:06:48 PM [FindKitInWIP] FindKitInWIP is starting.
+12/18/2020 4:06:54 PM [FindKitInWIP] WO Information cleared
+12/18/2020 4:06:54 PM [FindKitInWIP] New WO Displayed
+12/18/2020 4:06:54 PM [FindKitInWIP] Used asked to display WO: TEST-123456
+12/18/2020 4:07:02 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/18/2020 4:07:02 PM [PlaceInWIP] PlaceInWIP is starting.
+12/18/2020 4:07:07 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/18/2020 4:07:18 PM [PlaceInWIP] User selected Close Button
+12/18/2020 4:07:19 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/18/2020 4:07:19 PM [PlaceInWIP] PlaceInWIP is starting.
+12/18/2020 4:07:22 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/18/2020 4:07:25 PM [PlaceInWIP] Used asked for WO, record ID: TEST123456
+12/18/2020 4:07:25 PM [PlaceInWIP] WO Information cleared
+12/18/2020 4:07:25 PM [PlaceInWIP] Unable to find WO.
+12/18/2020 4:07:40 PM [PlaceInWIP] Used asked for WO, record ID: TEST1234561
+12/18/2020 4:07:40 PM [PlaceInWIP] WO Information cleared
+12/18/2020 4:07:40 PM [PlaceInWIP] Unable to find WO.
+12/18/2020 4:07:41 PM [PlaceInWIP] Used asked for WO, record ID: 
+12/18/2020 4:07:41 PM [PlaceInWIP] WO Information cleared
+12/18/2020 4:07:41 PM [PlaceInWIP] Unable to find WO.
+12/18/2020 4:07:47 PM [PlaceInWIP] Used asked for WO, record ID: TEST123456
+12/18/2020 4:07:47 PM [PlaceInWIP] WO Information cleared
+12/18/2020 4:07:47 PM [PlaceInWIP] Unable to find WO.
+12/18/2020 4:08:10 PM [PlaceInWIP] User selected Close Button

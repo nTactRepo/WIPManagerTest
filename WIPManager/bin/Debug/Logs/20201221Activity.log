@@ -1,0 +1,409 @@
+﻿12/21/2020 9:30:59 AM [PlaceInWIP] Debug controls enabled
+12/21/2020 9:30:59 AM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 9:30:59 AM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 9:31:03 AM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 9:31:28 AM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 9:31:28 AM [PlaceInWIP] WO Information cleared
+12/21/2020 9:31:28 AM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 9:31:28 AM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 9:31:47 AM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 9:31:49 AM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location WIP_JDM
+12/21/2020 9:31:49 AM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 9:31:49 AM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 9:31:52 AM [PlaceInWIP] User selected Close Button
+12/21/2020 9:31:54 AM [PlaceInWIP] Debug controls enabled
+12/21/2020 9:31:54 AM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 9:31:54 AM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 9:31:58 AM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 9:32:08 AM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 9:32:08 AM [PlaceInWIP] WO Information cleared
+12/21/2020 9:32:08 AM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 9:32:08 AM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 9:32:11 AM [PlaceInWIP] User asked for all location data in WO TEST-123456 to be cleared.
+12/21/2020 9:32:11 AM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 9:32:20 AM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 9:32:22 AM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location WIP_2JDM
+12/21/2020 9:32:22 AM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 9:32:22 AM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 9:32:27 AM [PlaceInWIP] User selected Close Button
+12/21/2020 12:09:56 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 12:09:56 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 12:09:56 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 12:10:05 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 12:10:10 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 12:10:10 PM [PlaceInWIP] WO Information cleared
+12/21/2020 12:10:10 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 12:10:10 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 12:10:30 PM [PlaceInWIP] User selected Close Button
+12/21/2020 12:10:32 PM [GetFromWIP] New state: GetName
+12/21/2020 12:10:32 PM [GetFromWIP] WO Info cleared.
+12/21/2020 12:12:09 PM [GetFromWIP] New state: GetWO
+12/21/2020 12:12:14 PM [GetFromWIP] New state: GetName
+12/21/2020 12:12:16 PM [GetFromWIP] New state: GetWO
+12/21/2020 12:12:20 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 12:12:20 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 12:12:20 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 12:12:20 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:13:01 PM [GetFromWIP] 
+12/21/2020 12:13:01 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 12:13:01 PM [GetFromWIP] New state: GetWO
+12/21/2020 12:13:07 PM [GetFromWIP] New state: GetName
+12/21/2020 12:13:07 PM [GetFromWIP] WO Info cleared.
+12/21/2020 12:13:08 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 12:13:08 PM [GetFromWIP] New state: GetName
+12/21/2020 12:13:08 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 12:13:12 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:13:22 PM [GetFromWIP] New state: GetName
+12/21/2020 12:13:22 PM [GetFromWIP] WO Info cleared.
+12/21/2020 12:13:25 PM [GetFromWIP] New state: GetWO
+12/21/2020 12:13:31 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 12:13:31 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 12:13:31 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 12:13:31 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:13:36 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 12:13:36 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:13:36 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 12:13:41 PM [GetFromWIP] 
+12/21/2020 12:13:41 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 12:13:41 PM [GetFromWIP] New state: GetWO
+12/21/2020 12:13:45 PM [GetFromWIP] Changed to Operation mode: Pull
+12/21/2020 12:13:45 PM [GetFromWIP] New state: GetWO
+12/21/2020 12:13:45 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 12:13:45 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:13:52 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 12:13:52 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:13:52 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 12:13:53 PM [GetFromWIP] Changed to Operation mode: Pull
+12/21/2020 12:13:53 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:13:53 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 12:13:55 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 12:13:55 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:13:55 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 12:13:56 PM [GetFromWIP] Changed to Operation mode: Pull
+12/21/2020 12:13:56 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:13:56 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 12:13:59 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 12:13:59 PM [GetFromWIP] New state: GetWO
+12/21/2020 12:14:21 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 12:14:21 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 12:14:21 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 12:14:21 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:14:42 PM [GetFromWIP] 
+12/21/2020 12:14:42 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 12:14:42 PM [GetFromWIP] New state: GetWO
+12/21/2020 12:14:44 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 12:14:44 PM [GetFromWIP] New state: GetWO
+12/21/2020 12:14:44 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 12:14:44 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 12:14:45 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 12:14:45 PM [GetFromWIP] New state: GetWO
+12/21/2020 12:15:05 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 12:15:05 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 12:15:05 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 12:15:05 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 2:57:07 PM [GetFromWIP] New state: GetName
+12/21/2020 2:57:07 PM [GetFromWIP] WO Info cleared.
+12/21/2020 2:57:12 PM [GetFromWIP] New state: GetWO
+12/21/2020 2:57:15 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 2:57:16 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 2:57:16 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 2:57:16 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 2:57:26 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 2:57:26 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 2:57:26 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 2:57:51 PM [GetFromWIP] 
+12/21/2020 2:57:51 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 2:57:51 PM [GetFromWIP] New state: GetWO
+12/21/2020 2:57:53 PM [GetFromWIP] Changed to Operation mode: Pull
+12/21/2020 2:57:53 PM [GetFromWIP] New state: GetWO
+12/21/2020 2:57:53 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 2:57:53 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 2:57:55 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 2:57:55 PM [GetFromWIP] New state: GetWO
+12/21/2020 2:57:58 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 2:57:58 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 2:57:58 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 2:57:58 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 3:26:53 PM [GetFromWIP] New state: GetName
+12/21/2020 3:26:53 PM [GetFromWIP] WO Info cleared.
+12/21/2020 3:26:57 PM [GetFromWIP] New state: GetWO
+12/21/2020 3:26:59 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 3:26:59 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 3:26:59 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 3:26:59 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 3:27:23 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 3:27:23 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 3:27:23 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 3:27:26 PM [PlaceInWIP] User selected Close Button
+12/21/2020 3:27:27 PM [GetFromWIP] New state: GetName
+12/21/2020 3:27:27 PM [GetFromWIP] WO Info cleared.
+12/21/2020 3:27:35 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 3:27:35 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 3:27:35 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 3:27:39 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 3:27:41 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 3:27:41 PM [PlaceInWIP] WO Information cleared
+12/21/2020 3:27:41 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 3:27:41 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 3:27:57 PM [PlaceInWIP] User asked for all location data in WO TEST-123456 to be cleared.
+12/21/2020 3:27:57 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 3:28:24 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 3:28:26 PM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location WIP_JDM
+12/21/2020 3:28:26 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 3:28:26 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 3:29:13 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 3:29:15 PM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location WIP_KGB
+12/21/2020 3:29:15 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 3:29:15 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 3:30:18 PM [PlaceInWIP] User selected Close Button
+12/21/2020 3:30:20 PM [GetFromWIP] New state: GetName
+12/21/2020 3:30:20 PM [GetFromWIP] WO Info cleared.
+12/21/2020 3:30:24 PM [GetFromWIP] New state: GetWO
+12/21/2020 3:30:29 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 3:30:29 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 3:30:29 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 3:30:29 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 3:30:34 PM [GetFromWIP] 
+12/21/2020 3:30:34 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 3:30:34 PM [GetFromWIP] New state: GetWO
+12/21/2020 3:30:38 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 3:30:38 PM [GetFromWIP] New state: GetWO
+12/21/2020 3:30:38 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 3:30:39 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 3:30:41 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 3:30:41 PM [GetFromWIP] New state: GetWO
+12/21/2020 3:30:44 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 3:30:44 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 3:30:44 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 3:30:44 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 3:31:10 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 3:31:10 PM [GetFromWIP] New state: GetWO
+12/21/2020 3:31:15 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 3:31:15 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 3:31:15 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 3:31:15 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 3:31:21 PM [GetFromWIP] New state: GetName
+12/21/2020 3:31:21 PM [GetFromWIP] WO Info cleared.
+12/21/2020 3:31:23 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 3:31:23 PM [GetFromWIP] New state: GetName
+12/21/2020 3:31:23 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 3:31:27 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 3:31:36 PM [GetFromWIP] New state: GetName
+12/21/2020 3:31:36 PM [GetFromWIP] WO Info cleared.
+12/21/2020 3:31:38 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 3:31:38 PM [GetFromWIP] New state: GetName
+12/21/2020 3:31:38 PM [GetFromWIP] New WO  information with 0 material rows
+12/21/2020 3:31:41 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 3:34:33 PM [GetFromWIP] New state: GetName
+12/21/2020 3:34:33 PM [GetFromWIP] WO Info cleared.
+12/21/2020 3:34:37 PM [GetFromWIP] New state: GetWO
+12/21/2020 3:34:38 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 3:34:38 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 3:34:38 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 3:34:38 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 3:34:40 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 3:34:40 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 3:34:40 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 3:34:44 PM [GetFromWIP] 
+12/21/2020 3:34:44 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 3:34:44 PM [GetFromWIP] New state: GetWO
+12/21/2020 4:05:59 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 4:05:59 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 4:05:59 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 4:06:04 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 4:06:19 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 4:06:20 PM [PlaceInWIP] WO Information cleared
+12/21/2020 4:06:20 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 4:06:20 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 4:06:24 PM [PlaceInWIP] User asked for all location data in WO TEST-123456 to be cleared.
+12/21/2020 4:06:24 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 4:06:37 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 4:06:40 PM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location JDM
+12/21/2020 4:06:40 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 4:06:40 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 4:07:17 PM [PlaceInWIP] User selected Close Button
+12/21/2020 4:07:19 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 4:07:19 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 4:07:19 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 4:07:23 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 4:07:24 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 4:07:24 PM [PlaceInWIP] WO Information cleared
+12/21/2020 4:07:24 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 4:07:24 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 4:07:30 PM [PlaceInWIP] User asked for all location data in WO TEST-123456 to be cleared.
+12/21/2020 4:07:30 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 4:07:45 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 4:09:21 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:09:37 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:09:37 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:09:37 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:09:42 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:09:47 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:09:47 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:09:47 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:09:47 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:10:07 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 5:10:09 PM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location J1
+12/21/2020 5:10:09 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:10:09 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:10:10 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:10:12 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:10:12 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:10:12 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:10:19 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:10:24 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:10:24 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:10:24 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:10:24 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:10:41 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 5:10:43 PM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location J2
+12/21/2020 5:10:43 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:10:43 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:10:52 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:10:53 PM [GetFromWIP] New state: GetName
+12/21/2020 5:10:53 PM [GetFromWIP] WO Info cleared.
+12/21/2020 5:10:57 PM [GetFromWIP] New state: GetWO
+12/21/2020 5:10:59 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:10:59 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 5:10:59 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 5:10:59 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 5:11:12 PM [GetFromWIP] 
+12/21/2020 5:11:12 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 5:11:12 PM [GetFromWIP] New state: GetWO
+12/21/2020 5:11:18 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:11:18 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 5:11:18 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 5:11:18 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 5:12:29 PM [GetFromWIP] 
+12/21/2020 5:12:29 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 5:12:29 PM [GetFromWIP] New state: GetWO
+12/21/2020 5:12:33 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:12:33 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 5:12:33 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 5:12:33 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 5:12:35 PM [GetFromWIP] Changed to Operation mode: Return
+12/21/2020 5:12:35 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 5:12:35 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 5:12:47 PM [GetFromWIP] 
+12/21/2020 5:12:47 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 5:12:47 PM [GetFromWIP] New state: GetWO
+12/21/2020 5:12:51 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:12:51 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 5:12:51 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 5:12:51 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 5:13:05 PM [GetFromWIP] 
+12/21/2020 5:13:05 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 5:13:05 PM [GetFromWIP] New state: GetWO
+12/21/2020 5:13:08 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:13:08 PM [GetFromWIP] Work Order Information was cleared
+12/21/2020 5:13:08 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 5:13:08 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 5:13:17 PM [GetFromWIP] Changed to Operation mode: Pull
+12/21/2020 5:13:17 PM [GetFromWIP] New state: NeedAccept
+12/21/2020 5:13:17 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+12/21/2020 5:13:33 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:13:33 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:13:33 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:13:37 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:13:40 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:13:40 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:13:40 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:13:40 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:14:06 PM [PlaceInWIP] User asked for all location data in WO TEST-123456 to be cleared.
+12/21/2020 5:14:06 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:14:21 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:14:22 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:14:22 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:14:22 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:14:26 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:14:28 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:14:28 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:14:28 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:14:28 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:14:48 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 5:14:49 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:14:51 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:14:51 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:14:51 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:14:54 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:14:56 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:14:56 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:14:56 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:14:56 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:15:04 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 5:15:06 PM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location J1
+12/21/2020 5:15:06 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:15:06 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:15:21 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:15:24 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:15:24 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:15:24 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:15:29 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:15:31 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:15:31 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:15:31 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:15:31 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:15:34 PM [PlaceInWIP] User asked for all location data in WO TEST-123456 to be cleared.
+12/21/2020 5:15:34 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:15:36 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:15:38 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:15:38 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:15:38 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:15:43 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:15:46 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:15:46 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:15:46 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:15:46 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:15:58 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 5:16:04 PM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location J1
+12/21/2020 5:16:04 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:16:04 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:19:18 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:19:19 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:19:19 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:19:19 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:19:22 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:19:27 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:19:27 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:19:27 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:19:27 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:19:36 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 5:19:41 PM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location J2
+12/21/2020 5:19:41 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:19:41 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:22:55 PM [PlaceInWIP] User asked for all location data in WO TEST-123456 to be cleared.
+12/21/2020 5:22:55 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:22:56 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:22:57 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:22:57 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:22:57 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:22:59 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:23:02 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:23:02 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:23:02 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:23:02 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:27:14 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+12/21/2020 5:27:16 PM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location J1
+12/21/2020 5:27:16 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:27:16 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:27:24 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:29:59 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:29:59 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:29:59 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:30:04 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:30:05 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:30:05 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:30:05 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:30:05 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:30:23 PM [PlaceInWIP] User asked for all location data in WO TEST-123456 to be cleared.
+12/21/2020 5:30:23 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:30:24 PM [PlaceInWIP] User selected Close Button
+12/21/2020 5:30:25 PM [PlaceInWIP] Debug controls enabled
+12/21/2020 5:30:25 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+12/21/2020 5:30:25 PM [PlaceInWIP] PlaceInWIP is starting.
+12/21/2020 5:30:27 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+12/21/2020 5:30:29 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+12/21/2020 5:30:29 PM [PlaceInWIP] WO Information cleared
+12/21/2020 5:30:29 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+12/21/2020 5:30:29 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+12/21/2020 5:31:12 PM [PlaceInWIP] User selected Close Button

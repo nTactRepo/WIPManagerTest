@@ -1,0 +1,212 @@
+﻿1/4/2021 12:31:59 PM [GetFromWIP] New state: GetName
+1/4/2021 12:31:59 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:32:30 PM [GetFromWIP] New state: GetName
+1/4/2021 12:32:30 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:32:33 PM [GetFromWIP] New state: GetWO
+1/4/2021 12:32:35 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 12:32:35 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 12:33:59 PM [GetFromWIP] New state: GetName
+1/4/2021 12:33:59 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:34:01 PM [GetFromWIP] New state: GetWO
+1/4/2021 12:34:03 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 12:34:03 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 12:52:52 PM [GetFromWIP] New state: GetName
+1/4/2021 12:52:52 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:52:56 PM [GetFromWIP] New state: GetWO
+1/4/2021 12:52:58 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 12:53:06 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 12:53:06 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 12:53:06 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 12:53:09 PM [GetFromWIP] New state: GetName
+1/4/2021 12:53:09 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:53:11 PM [GetFromWIP] New state: GetWO
+1/4/2021 12:53:14 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 12:53:36 PM [GetFromWIP] New state: GetName
+1/4/2021 12:53:36 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:53:41 PM [GetFromWIP] New state: GetWO
+1/4/2021 12:53:43 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 12:54:06 PM [GetFromWIP] New state: GetName
+1/4/2021 12:54:06 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:54:08 PM [GetFromWIP] New state: GetWO
+1/4/2021 12:54:09 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 12:55:09 PM [GetFromWIP] New state: GetName
+1/4/2021 12:55:09 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:55:11 PM [GetFromWIP] New state: GetWO
+1/4/2021 12:55:12 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 12:55:35 PM [GetFromWIP] New state: GetName
+1/4/2021 12:55:35 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:55:40 PM [GetFromWIP] New state: GetWO
+1/4/2021 12:55:41 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 12:56:54 PM [GetFromWIP] New state: GetName
+1/4/2021 12:56:54 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:57:00 PM [GetFromWIP] New state: GetWO
+1/4/2021 12:57:02 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 12:57:55 PM [GetFromWIP] New state: GetName
+1/4/2021 12:57:55 PM [GetFromWIP] WO Info cleared.
+1/4/2021 12:58:00 PM [GetFromWIP] New state: GetWO
+1/4/2021 12:58:02 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 1:01:50 PM [GetFromWIP] New state: GetName
+1/4/2021 1:01:50 PM [GetFromWIP] WO Info cleared.
+1/4/2021 1:01:52 PM [GetFromWIP] New state: GetWO
+1/4/2021 1:01:54 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 1:08:58 PM [GetFromWIP] New state: GetName
+1/4/2021 1:08:58 PM [GetFromWIP] WO Info cleared.
+1/4/2021 1:09:03 PM [GetFromWIP] New state: GetWO
+1/4/2021 1:09:04 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 1:09:04 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 1:27:43 PM [GetFromWIP] New state: GetName
+1/4/2021 1:27:43 PM [GetFromWIP] WO Info cleared.
+1/4/2021 1:27:46 PM [GetFromWIP] New state: GetWO
+1/4/2021 1:27:48 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 1:27:50 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 1:28:43 PM [GetFromWIP] New state: GetName
+1/4/2021 1:28:43 PM [GetFromWIP] WO Info cleared.
+1/4/2021 1:28:46 PM [GetFromWIP] New state: GetWO
+1/4/2021 1:28:49 PM [GetFromWIP] Used asked for WO, record ID: D4IHS7KKXR
+1/4/2021 1:28:58 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 1:41:06 PM [GetFromWIP] New state: GetName
+1/4/2021 1:41:06 PM [GetFromWIP] WO Info cleared.
+1/4/2021 1:41:10 PM [GetFromWIP] New state: GetWO
+1/4/2021 1:41:12 PM [GetFromWIP] Used asked for WO, record ID: D4IHS7KKXR
+1/4/2021 1:41:14 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 1:44:32 PM [GetFromWIP] New state: GetName
+1/4/2021 1:44:32 PM [GetFromWIP] WO Info cleared.
+1/4/2021 1:44:37 PM [GetFromWIP] New state: GetWO
+1/4/2021 1:44:38 PM [GetFromWIP] Used asked for WO, record ID: D4IHS7KKXR
+1/4/2021 1:44:40 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 1:53:37 PM [GetFromWIP] New state: GetName
+1/4/2021 1:53:37 PM [GetFromWIP] WO Info cleared.
+1/4/2021 1:53:50 PM [GetFromWIP] New state: GetWO
+1/4/2021 1:53:53 PM [GetFromWIP] Used asked for WO, record ID: D4IHS7KKXR
+1/4/2021 1:53:55 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 2:05:57 PM [GetFromWIP] New state: GetName
+1/4/2021 2:05:57 PM [GetFromWIP] WO Info cleared.
+1/4/2021 2:06:01 PM [GetFromWIP] New state: GetWO
+1/4/2021 2:06:05 PM [GetFromWIP] Used asked for WO, record ID: D4IHS7KKXR
+1/4/2021 2:06:07 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 2:06:57 PM [GetFromWIP] New state: GetName
+1/4/2021 2:06:57 PM [GetFromWIP] WO Info cleared.
+1/4/2021 2:07:00 PM [GetFromWIP] New state: GetWO
+1/4/2021 2:07:01 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 2:07:03 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 2:08:07 PM [GetFromWIP] New state: GetName
+1/4/2021 2:08:07 PM [GetFromWIP] WO Info cleared.
+1/4/2021 2:08:10 PM [GetFromWIP] New state: GetWO
+1/4/2021 2:08:11 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 2:08:13 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 3:07:04 PM [GetFromWIP] New state: GetName
+1/4/2021 3:07:04 PM [GetFromWIP] WO Info cleared.
+1/4/2021 3:07:10 PM [GetFromWIP] New state: GetWO
+1/4/2021 3:07:18 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 3:07:19 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 3:07:19 PM [GetFromWIP] Could not find WO
+1/4/2021 3:07:34 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 3:07:34 PM [WO] Exception reading Operation table for WO: The process cannot access the file 'C:\Temp\ShopFloor_Operation.txt' because it is being used by another process.
+1/4/2021 3:07:34 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 3:07:34 PM [GetFromWIP] Could not find WO
+1/4/2021 3:07:44 PM [GetFromWIP] New state: GetName
+1/4/2021 3:07:44 PM [GetFromWIP] WO Info cleared.
+1/4/2021 3:07:48 PM [GetFromWIP] New state: GetWO
+1/4/2021 3:07:51 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 3:07:51 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 3:07:51 PM [GetFromWIP] Could not find WO
+1/4/2021 3:20:57 PM [GetFromWIP] New state: GetName
+1/4/2021 3:20:57 PM [GetFromWIP] WO Info cleared.
+1/4/2021 3:21:03 PM [GetFromWIP] New state: GetWO
+1/4/2021 3:21:06 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 3:21:06 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 3:21:06 PM [GetFromWIP] Could not find WO
+1/4/2021 3:23:33 PM [GetFromWIP] New state: GetName
+1/4/2021 3:23:33 PM [GetFromWIP] WO Info cleared.
+1/4/2021 3:23:36 PM [GetFromWIP] New state: GetWO
+1/4/2021 3:23:38 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 3:24:10 PM [GetFromWIP] New state: GetName
+1/4/2021 3:24:10 PM [GetFromWIP] WO Info cleared.
+1/4/2021 3:24:28 PM [GetFromWIP] New state: GetWO
+1/4/2021 3:24:32 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 3:25:28 PM [GetFromWIP] New state: GetName
+1/4/2021 3:25:28 PM [GetFromWIP] WO Info cleared.
+1/4/2021 3:25:31 PM [GetFromWIP] New state: GetWO
+1/4/2021 3:25:33 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 3:25:39 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 3:26:02 PM [GetFromWIP] New WO WIPManager.Model.DBString information with 0 material rows
+1/4/2021 3:26:02 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 3:32:48 PM [GetFromWIP] New state: GetName
+1/4/2021 3:32:48 PM [GetFromWIP] WO Info cleared.
+1/4/2021 3:32:52 PM [GetFromWIP] New state: GetWO
+1/4/2021 3:32:54 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 3:32:58 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 3:32:58 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 3:32:58 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 5:42:04 PM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 5:42:07 PM [FindKitInWIP] WO Information cleared
+1/4/2021 5:42:07 PM [FindKit] User typed in unknown WO#: JMAHAN
+1/4/2021 5:42:21 PM [FindKitInWIP] WO Information cleared
+1/4/2021 5:42:21 PM [FindKitInWIP] New WO Displayed
+1/4/2021 5:42:21 PM [FindKitInWIP] Used asked to display WO: TEST-123456
+1/4/2021 5:42:33 PM [GetFromWIP] New state: GetName
+1/4/2021 5:42:33 PM [GetFromWIP] WO Info cleared.
+1/4/2021 5:42:38 PM [GetFromWIP] New state: GetWO
+1/4/2021 5:42:40 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 5:42:40 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 5:42:40 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 5:42:40 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 5:44:51 PM [GetFromWIP] New state: GetName
+1/4/2021 5:44:51 PM [GetFromWIP] WO Info cleared.
+1/4/2021 5:44:53 PM [GetFromWIP] New state: GetWO
+1/4/2021 5:44:56 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 5:44:56 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 5:44:56 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 5:44:56 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 5:47:30 PM [GetFromWIP] New state: GetName
+1/4/2021 5:47:30 PM [GetFromWIP] WO Info cleared.
+1/4/2021 5:47:35 PM [GetFromWIP] New state: GetWO
+1/4/2021 5:47:37 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 5:47:37 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 5:47:37 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 5:47:37 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 5:57:59 PM [GetFromWIP] New state: GetName
+1/4/2021 5:57:59 PM [GetFromWIP] WO Info cleared.
+1/4/2021 5:58:03 PM [GetFromWIP] New state: GetWO
+1/4/2021 5:58:04 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 5:58:05 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 5:58:05 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 5:58:05 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 5:59:22 PM [GetFromWIP] New state: GetName
+1/4/2021 5:59:22 PM [GetFromWIP] WO Info cleared.
+1/4/2021 5:59:26 PM [GetFromWIP] New state: GetWO
+1/4/2021 5:59:28 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 5:59:28 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 5:59:28 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 5:59:28 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 6:01:35 PM [GetFromWIP] New state: GetName
+1/4/2021 6:01:35 PM [GetFromWIP] WO Info cleared.
+1/4/2021 6:01:40 PM [GetFromWIP] New state: GetWO
+1/4/2021 6:01:42 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 6:01:42 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 6:01:42 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 6:01:42 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 6:02:29 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+1/4/2021 6:02:29 PM [PlaceInWIP] PlaceInWIP is starting.
+1/4/2021 6:02:35 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+1/4/2021 6:02:37 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 6:02:37 PM [PlaceInWIP] WO Information cleared
+1/4/2021 6:02:37 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+1/4/2021 6:02:37 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+1/4/2021 6:02:48 PM [PlaceInWIP] User selected Close Button
+1/4/2021 6:08:49 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+1/4/2021 6:08:49 PM [PlaceInWIP] PlaceInWIP is starting.
+1/4/2021 6:08:56 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+1/4/2021 6:08:58 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 6:08:58 PM [PlaceInWIP] WO Information cleared
+1/4/2021 6:08:58 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+1/4/2021 6:08:58 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+1/4/2021 6:09:20 PM [PlaceInWIP] User selected Close Button
+1/4/2021 6:09:22 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+1/4/2021 6:09:22 PM [PlaceInWIP] PlaceInWIP is starting.
+1/4/2021 6:09:27 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+1/4/2021 6:09:29 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 6:09:29 PM [PlaceInWIP] WO Information cleared
+1/4/2021 6:09:29 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+1/4/2021 6:09:29 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+1/4/2021 6:09:33 PM [PlaceInWIP] User selected Close Button

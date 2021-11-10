@@ -1,0 +1,11 @@
+﻿3/10/2020 8:50:46 AM [PlaceInWIP] Debug controls enabled
+3/10/2020 8:50:46 AM [PlaceInWIP] New state in PlaceInWIP: GetName
+3/10/2020 8:50:46 AM [PlaceInWIP] PlaceInWIP is starting.
+3/10/2020 8:50:50 AM [PlaceInWIP] New state in PlaceInWIP: GetWO
+3/10/2020 8:50:52 AM [PlaceInWIP] WO Information cleared
+3/10/2020 8:50:52 AM [PlaceInWIP] Used asked for unknown WO, record ID: 98s7yhe
+3/10/2020 8:50:58 AM [PlaceInWIP] WO Information cleared
+3/10/2020 8:50:58 AM [PlaceInWIP] New WO Info: 9 material rows
+3/10/2020 8:50:58 AM [PlaceInWIP] Used asked for WO, record ID: D4O4RH4WC1M
+3/10/2020 8:50:58 AM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+3/10/2020 8:51:08 AM [PlaceInWIP] User selected Close Button

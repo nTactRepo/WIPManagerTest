@@ -1,0 +1,221 @@
+﻿1/4/2021 10:01:25 AM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 10:01:34 AM [FindKitInWIP] WO Information cleared
+1/4/2021 10:01:34 AM [FindKit] User typed in unknown WO#: TEST123456
+1/4/2021 10:01:43 AM [FindKitInWIP] WO Information cleared
+1/4/2021 10:01:43 AM [FindKitInWIP] New WO Displayed
+1/4/2021 10:01:43 AM [FindKitInWIP] Used asked to display WO: TEST-123456
+1/4/2021 10:02:07 AM [GetFromWIP] New state: GetName
+1/4/2021 10:02:07 AM [GetFromWIP] WO Info cleared.
+1/4/2021 10:02:11 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:03:11 AM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 10:03:15 AM [FindKitInWIP] WO Information cleared
+1/4/2021 10:03:15 AM [FindKitInWIP] New WO Displayed
+1/4/2021 10:03:15 AM [FindKitInWIP] Used asked to display WO: TEST-123456
+1/4/2021 10:04:37 AM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 10:09:12 AM [FindKitInWIP] WO Information cleared
+1/4/2021 10:09:12 AM [FindKitInWIP] New WO Displayed
+1/4/2021 10:09:12 AM [FindKitInWIP] Used asked to display WO: TEST-123456
+1/4/2021 10:09:15 AM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 10:09:33 AM [FindKitInWIP] WO Information cleared
+1/4/2021 10:09:33 AM [FindKitInWIP] New WO Displayed
+1/4/2021 10:09:33 AM [FindKitInWIP] Used asked to display WO: 9200-276911
+1/4/2021 10:09:41 AM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 10:10:24 AM [FindKitInWIP] WO Information cleared
+1/4/2021 10:10:24 AM [FindKitInWIP] New WO Displayed
+1/4/2021 10:10:24 AM [FindKitInWIP] Used asked to display WO: 9200-276911
+1/4/2021 10:10:51 AM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 10:42:57 AM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 10:43:06 AM [FindKitInWIP] WO Information cleared
+1/4/2021 10:43:06 AM [FindKitInWIP] New WO Displayed
+1/4/2021 10:43:06 AM [FindKitInWIP] Used asked to display WO: TEST-123456
+1/4/2021 10:43:19 AM [GetFromWIP] New state: GetName
+1/4/2021 10:43:19 AM [GetFromWIP] WO Info cleared.
+1/4/2021 10:43:34 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:43:38 AM [GetFromWIP] New state: GetName
+1/4/2021 10:43:41 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:43:51 AM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFC
+1/4/2021 10:43:51 AM [GetFromWIP] Work Order Information was cleared
+1/4/2021 10:43:51 AM [GetFromWIP] Could not find WO
+1/4/2021 10:44:04 AM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:44:04 AM [GetFromWIP] Work Order Information was cleared
+1/4/2021 10:44:04 AM [GetFromWIP] Could not find WO
+1/4/2021 10:47:38 AM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:47:38 AM [GetFromWIP] Work Order Information was cleared
+1/4/2021 10:47:38 AM [GetFromWIP] Could not find WO
+1/4/2021 10:48:20 AM [GetFromWIP] New state: GetName
+1/4/2021 10:48:20 AM [GetFromWIP] WO Info cleared.
+1/4/2021 10:48:25 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:48:30 AM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:49:52 AM [GetFromWIP] New state: GetName
+1/4/2021 10:49:52 AM [GetFromWIP] WO Info cleared.
+1/4/2021 10:49:56 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:50:02 AM [GetFromWIP] New state: GetName
+1/4/2021 10:50:04 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:50:07 AM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:50:09 AM [GetFromWIP] Work Order Information was cleared
+1/4/2021 10:50:09 AM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 10:50:09 AM [GetFromWIP] New state: NeedAccept
+1/4/2021 10:50:25 AM [GetFromWIP] Changed to Operation mode: Return
+1/4/2021 10:50:25 AM [GetFromWIP] New state: GetLocation
+1/4/2021 10:50:25 AM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 10:50:28 AM [PlaceInWIP] Debug controls enabled
+1/4/2021 10:50:28 AM [PlaceInWIP] New state in PlaceInWIP: GetName
+1/4/2021 10:50:28 AM [PlaceInWIP] PlaceInWIP is starting.
+1/4/2021 10:50:31 AM [PlaceInWIP] New state in PlaceInWIP: GetWO
+1/4/2021 10:50:34 AM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:50:45 AM [PlaceInWIP] WO Information cleared
+1/4/2021 10:50:45 AM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+1/4/2021 10:50:45 AM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+1/4/2021 10:51:08 AM [PlaceInWIP] User selected Close Button
+1/4/2021 10:52:38 AM [PlaceInWIP] Debug controls enabled
+1/4/2021 10:52:38 AM [PlaceInWIP] New state in PlaceInWIP: GetName
+1/4/2021 10:52:38 AM [PlaceInWIP] PlaceInWIP is starting.
+1/4/2021 10:52:42 AM [PlaceInWIP] New state in PlaceInWIP: GetWO
+1/4/2021 10:52:44 AM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:52:45 AM [PlaceInWIP] WO Information cleared
+1/4/2021 10:54:30 AM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 10:54:35 AM [FindKitInWIP] WO Information cleared
+1/4/2021 10:54:40 AM [FindKitInWIP] New WO Displayed
+1/4/2021 10:54:40 AM [FindKitInWIP] Used asked to display WO: TEST-123456
+1/4/2021 10:54:47 AM [PlaceInWIP] Debug controls enabled
+1/4/2021 10:54:47 AM [PlaceInWIP] New state in PlaceInWIP: GetName
+1/4/2021 10:54:47 AM [PlaceInWIP] PlaceInWIP is starting.
+1/4/2021 10:54:50 AM [PlaceInWIP] New state in PlaceInWIP: GetWO
+1/4/2021 10:54:53 AM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:54:53 AM [PlaceInWIP] WO Information cleared
+1/4/2021 10:55:01 AM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+1/4/2021 10:55:01 AM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+1/4/2021 10:55:10 AM [PlaceInWIP] User selected Close Button
+1/4/2021 10:55:11 AM [GetFromWIP] New state: GetName
+1/4/2021 10:55:11 AM [GetFromWIP] WO Info cleared.
+1/4/2021 10:55:16 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:55:20 AM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:55:20 AM [GetFromWIP] Work Order Information was cleared
+1/4/2021 10:55:20 AM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 10:55:20 AM [GetFromWIP] New state: NeedAccept
+1/4/2021 10:55:25 AM [GetFromWIP] Changed to Operation mode: Return
+1/4/2021 10:55:25 AM [GetFromWIP] New state: GetLocation
+1/4/2021 10:55:25 AM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 10:55:28 AM [GetFromWIP] Changed to Operation mode: Pull
+1/4/2021 10:55:28 AM [GetFromWIP] New state: NeedAccept
+1/4/2021 10:55:28 AM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 10:55:34 AM [PlaceInWIP] Debug controls enabled
+1/4/2021 10:55:34 AM [PlaceInWIP] New state in PlaceInWIP: GetName
+1/4/2021 10:55:34 AM [PlaceInWIP] PlaceInWIP is starting.
+1/4/2021 10:55:37 AM [PlaceInWIP] New state in PlaceInWIP: GetWO
+1/4/2021 10:55:40 AM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:55:40 AM [PlaceInWIP] WO Information cleared
+1/4/2021 10:55:40 AM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+1/4/2021 10:55:40 AM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+1/4/2021 10:56:04 AM [PlaceInWIP] User selected Close Button
+1/4/2021 10:56:06 AM [GetFromWIP] New state: GetName
+1/4/2021 10:56:06 AM [GetFromWIP] WO Info cleared.
+1/4/2021 10:56:09 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:56:12 AM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:56:12 AM [GetFromWIP] Work Order Information was cleared
+1/4/2021 10:56:12 AM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 10:56:12 AM [GetFromWIP] New state: NeedAccept
+1/4/2021 10:56:20 AM [GetFromWIP] 
+1/4/2021 10:56:20 AM [GetFromWIP] Work Order Information was cleared
+1/4/2021 10:56:20 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:56:25 AM [GetFromWIP] New state: GetName
+1/4/2021 10:56:25 AM [GetFromWIP] WO Info cleared.
+1/4/2021 10:56:26 AM [GetFromWIP] Changed to Operation mode: Return
+1/4/2021 10:56:26 AM [GetFromWIP] New state: GetName
+1/4/2021 10:56:26 AM [GetFromWIP] New WO  information with 0 material rows
+1/4/2021 10:56:30 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:56:38 AM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:56:38 AM [GetFromWIP] Work Order Information was cleared
+1/4/2021 10:56:38 AM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 10:56:38 AM [GetFromWIP] New state: GetLocation
+1/4/2021 10:57:01 AM [GetFromWIP] New state: NeedAccept
+1/4/2021 10:57:06 AM [GetFromWIP] 
+1/4/2021 10:57:06 AM [GetFromWIP] Work Order Information was cleared
+1/4/2021 10:57:06 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:57:08 AM [GetFromWIP] Changed to Operation mode: Pull
+1/4/2021 10:57:08 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:57:08 AM [GetFromWIP] New WO  information with 0 material rows
+1/4/2021 10:57:08 AM [GetFromWIP] New state: NeedAccept
+1/4/2021 10:57:12 AM [GetFromWIP] New state: GetName
+1/4/2021 10:57:12 AM [GetFromWIP] WO Info cleared.
+1/4/2021 10:57:16 AM [GetFromWIP] New state: GetWO
+1/4/2021 10:57:20 AM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 10:57:20 AM [GetFromWIP] Work Order Information was cleared
+1/4/2021 10:57:20 AM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 10:57:20 AM [GetFromWIP] New state: NeedAccept
+1/4/2021 6:09:45 PM [PlaceInWIP] Debug controls enabled
+1/4/2021 6:09:45 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+1/4/2021 6:09:45 PM [PlaceInWIP] PlaceInWIP is starting.
+1/4/2021 6:09:51 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+1/4/2021 6:09:54 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 6:09:54 PM [PlaceInWIP] WO Information cleared
+1/4/2021 6:09:54 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+1/4/2021 6:09:54 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+1/4/2021 6:09:57 PM [PlaceInWIP] User asked for all location data in WO TEST-123456 to be cleared.
+1/4/2021 6:09:57 PM [WO] Exception writing WO: No mapping exists from object type WIPManager.Model.DBString to a known managed provider native type.
+1/4/2021 6:09:57 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+1/4/2021 6:10:14 PM [PlaceInWIP] User selected Close Button
+1/4/2021 6:42:31 PM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 6:42:35 PM [FindKitInWIP] WO Information cleared
+1/4/2021 6:42:35 PM [WO] Exception reading WO Info: Specified cast is not valid.
+1/4/2021 6:42:35 PM [FindKitInWIP] WO Information cleared
+1/4/2021 6:42:35 PM [FindKit] User typed in unknown WO#: TEST-123456
+1/4/2021 6:43:26 PM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 6:44:43 PM [FindKitInWIP] WO Information cleared
+1/4/2021 6:45:52 PM [WO] Exception reading WO Info: Specified cast is not valid.
+1/4/2021 6:45:52 PM [FindKitInWIP] WO Information cleared
+1/4/2021 6:45:52 PM [FindKit] User typed in unknown WO#: TEST-123456
+1/4/2021 6:45:56 PM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 6:46:18 PM [FindKitInWIP] WO Information cleared
+1/4/2021 6:47:19 PM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 6:47:28 PM [FindKitInWIP] WO Information cleared
+1/4/2021 6:53:22 PM [FindKitInWIP] FindKitInWIP is starting.
+1/4/2021 6:53:29 PM [FindKitInWIP] WO Information cleared
+1/4/2021 6:53:31 PM [FindKitInWIP] New WO Displayed
+1/4/2021 6:53:31 PM [FindKitInWIP] Used asked to display WO: TEST-123456
+1/4/2021 6:53:45 PM [GetFromWIP] New state: GetName
+1/4/2021 6:53:45 PM [GetFromWIP] WO Info cleared.
+1/4/2021 6:53:50 PM [GetFromWIP] New state: GetWO
+1/4/2021 6:53:53 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 6:53:53 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 6:53:53 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 6:53:53 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 6:53:58 PM [GetFromWIP] Changed to Operation mode: Return
+1/4/2021 6:53:58 PM [GetFromWIP] New state: GetLocation
+1/4/2021 6:53:58 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 6:53:59 PM [GetFromWIP] Changed to Operation mode: Pull
+1/4/2021 6:53:59 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 6:53:59 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 6:54:03 PM [PlaceInWIP] Debug controls enabled
+1/4/2021 6:54:03 PM [PlaceInWIP] New state in PlaceInWIP: GetName
+1/4/2021 6:54:03 PM [PlaceInWIP] PlaceInWIP is starting.
+1/4/2021 6:54:07 PM [PlaceInWIP] New state in PlaceInWIP: GetWO
+1/4/2021 6:54:09 PM [PlaceInWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 6:54:09 PM [PlaceInWIP] WO Information cleared
+1/4/2021 6:54:09 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+1/4/2021 6:54:09 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+1/4/2021 6:54:18 PM [PlaceInWIP] New state in PlaceInWIP: NeedAccept
+1/4/2021 6:54:20 PM [WO] Exception writing WO: No mapping exists from object type WIPManager.Model.DBString to a known managed provider native type.
+1/4/2021 6:54:20 PM [PlaceInWIP] User JMAHAN placed material from WO TEST-123456 into location JDM3
+1/4/2021 6:54:20 PM [PlaceInWIP] New WO Info, ID: TEST-123456, 2 material rows
+1/4/2021 6:54:20 PM [PlaceInWIP] New state in PlaceInWIP: GetLocation
+1/4/2021 6:54:22 PM [PlaceInWIP] User selected Close Button
+1/4/2021 6:54:23 PM [GetFromWIP] New state: GetName
+1/4/2021 6:54:23 PM [GetFromWIP] WO Info cleared.
+1/4/2021 6:54:30 PM [GetFromWIP] New state: GetWO
+1/4/2021 6:54:33 PM [GetFromWIP] Used asked for WO, record ID: DJUCL79XYFD
+1/4/2021 6:54:33 PM [GetFromWIP] Work Order Information was cleared
+1/4/2021 6:54:33 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 6:54:33 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 6:54:42 PM [GetFromWIP] Changed to Operation mode: Return
+1/4/2021 6:54:42 PM [GetFromWIP] New state: GetLocation
+1/4/2021 6:54:42 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 6:54:42 PM [GetFromWIP] Changed to Operation mode: Pull
+1/4/2021 6:54:42 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 6:54:42 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 6:54:43 PM [GetFromWIP] Changed to Operation mode: Return
+1/4/2021 6:54:43 PM [GetFromWIP] New state: GetLocation
+1/4/2021 6:54:43 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
+1/4/2021 6:54:44 PM [GetFromWIP] Changed to Operation mode: Pull
+1/4/2021 6:54:44 PM [GetFromWIP] New state: NeedAccept
+1/4/2021 6:54:44 PM [GetFromWIP] New WO TEST-123456 information with 2 material rows
