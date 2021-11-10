@@ -410,3 +410,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+*.cache
+WIPManager/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
